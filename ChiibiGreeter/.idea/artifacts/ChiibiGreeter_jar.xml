@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ChiibiGreeter:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/ChiibiGreeter_jar</output-path>
-    <root id="archive" name="ChiibiGreeter.jar">
-      <element id="module-output" name="ChiibiGreeter" />
-    </root>
-  </artifact>
-</component>
