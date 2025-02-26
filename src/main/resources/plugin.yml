@@ -1,0 +1,5 @@
+name: ChiibiGreeter
+main: me.JonathanHoffmann.ChiibiGreeter.ChiibiGreeter
+author: Jonathan Hoffmann
+version: ${plugin.version}
+api-version: 1.21.4
